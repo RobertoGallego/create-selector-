@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { FormOnChange, Loader, Select } from '@procsea/design-system'
+import { FormOnChange, Loader, Select } from '@design-system'
 
 import useSellerFishingMethods from './useSellerFishingMethods'
 
