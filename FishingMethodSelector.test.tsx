@@ -2,7 +2,7 @@ import { QueryClient } from '@tanstack/react-query'
 import userEvent from '@testing-library/user-event'
 import React from 'react'
 
-import { MyOptionType } from '@procsea/design-system'
+import { MyOptionType } from '@design-system'
 
 import * as fishingMethodsQueries from 'src/queries/shared/fishingMethods/fishingMethods'
 import { MOCK_STORE_FISHING_METHOD, MOCK_STORE_FISHING_METHODS, render, screen } from 'src/testing'
